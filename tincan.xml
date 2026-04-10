@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://6YweQCoEizz_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Protect Our Teachers</name>
+			<description lang="und">Protect Our Teachers Course</description>
+			<launch lang="und">index_lms.html</launch>
+		</activity>
+		<activity id="http://6YweQCoEizz_course_id/6iUA058WGW3" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">The Doorway Moment</name>
+			<description lang="und">The Doorway Moment</description>
+		</activity>
+		<activity id="http://6YweQCoEizz_course_id/5ZCK2r2stin" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">The Doorway Moment</name>
+			<description lang="und">The Doorway Moment</description>
+		</activity>
+		<activity id="http://6YweQCoEizz_course_id/6Wot0oUnM9B" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">The Reality</name>
+			<description lang="und">The Reality</description>
+		</activity>
+		<activity id="http://6YweQCoEizz_course_id/6OOU2iSD0HS" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">what would you do next?</name>
+			<description lang="und">what would you do next?</description>
+		</activity>
+		<activity id="http://6YweQCoEizz_course_id/6OOU2iSD0HS/6OgXsaiumps" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">“If you were Ms. Taylor, what would you do next?”</name>
+			<description lang="und">“If you were Ms. Taylor, what would you do next?”</description>
+			<interactionType>choice</interactionType>
+			<choices>
+				<component>
+					<id>choice_6eK7PicJJlO</id>
+					<description lang="und">Listen to staff concerns</description>
+				</component>
+				<component>
+					<id>choice_6KyTKfc2TBh</id>
+					<description lang="und">Review the school’s safety plan </description>
+				</component>
+				<component>
+					<id>choice_6oF2akBsma5</id>
+					<description lang="und">Hope things get better</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://6YweQCoEizz_course_id/5v7FHBNYOCY" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">In the News</name>
+			<description lang="und">In the News</description>
+		</activity>
+		<activity id="http://6YweQCoEizz_course_id/5t6VzkMJdF6" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Stop Violence</name>
+			<description lang="und">Stop Violence</description>
+		</activity>
+		<activity id="http://6YweQCoEizz_course_id/6DxL3ylICCI" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Support Strategies</name>
+			<description lang="und">Support Strategies</description>
+		</activity>
+		<activity id="http://6YweQCoEizz_course_id/5zqDEJqQCEK" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Tap to See Strategy</name>
+			<description lang="und">Tap to See Strategy</description>
+		</activity>
+		<activity id="http://6YweQCoEizz_course_id/5Xf0m7G33A0" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Tap to See Strategy..Cont</name>
+			<description lang="und">Tap to See Strategy..Cont</description>
+		</activity>
+		<activity id="http://6YweQCoEizz_course_id/6HQD1pW3UNQ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Act Now</name>
+			<description lang="und">Act Now</description>
+		</activity>
+		<activity id="http://6YweQCoEizz_course_id/5oBL2z8WHys" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">The End</name>
+			<description lang="und">The End</description>
+		</activity>
+	</activities>
+</tincan>
